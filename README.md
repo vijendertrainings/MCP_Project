@@ -21,7 +21,12 @@ Follow the steps below to run your own MCP server locally and test it using cust
    ```bash
    python3 --version
 
-<img width="690" alt="image" src="https://github.com/user-attachments/assets/d788ba9e-064a-451d-af80-728180496f62" />
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/7c6072cb-a3a7-4e71-b307-2a215eebd139" />
+
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/fa43506f-2936-40cf-a502-da841d2c0286" />
+
+<img width="914" alt="image" src="https://github.com/user-attachments/assets/700f5685-eedc-4400-a143-7dc2fde818cd" />
+
 
 
 # 🔥 How to Get a Firecrawl API Key
