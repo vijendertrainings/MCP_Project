@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+      "MCP-text-analysis": {
+          "command": "python",
+          "args": ["/Users/vijender/Desktop/MCP_Project/server.py"],
+          "host": "127.0.0.1",
+          "port": 8080,
+          "timeout": 30000
+      }
+  }
+}
